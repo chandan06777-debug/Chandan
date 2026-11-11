@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">I'm Chandan!</h1>
 
 <h3 align="center">Student | Aspiring VLSI & Embedded Systems Engineer</h3>
