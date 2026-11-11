@@ -1,4 +1,5 @@
-<h1 align="center"> I'm Chandan!</h1>
+```markdown
+<h1 align="center">I'm Chandan!</h1>
 
 <h3 align="center">Student | Aspiring VLSI & Embedded Systems Engineer</h3>
 
@@ -21,7 +22,6 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-<!-- Add the languages you know -->
 - Verilog
 - C / C++
 - Python
@@ -33,7 +33,6 @@
 - Embedded Systems
 
 ### 🔧 Tools & Technologies
-<!-- Add the tools you have experience with -->
 - Git & GitHub
 - Linux
 - Xilinx Vivado
@@ -60,12 +59,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandan06777-debug&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan06777-debug&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=chandan06777-debug&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -73,14 +72,14 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/chandan06777-debug">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://www.linkedin.com/in/chandan-d-68b13427a?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/chandan-d-68b13427a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="chandan06777@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:chandan06777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -101,3 +100,4 @@
 <p align="center">
   ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
+```
